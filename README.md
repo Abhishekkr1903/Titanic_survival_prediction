@@ -1,51 +1,51 @@
-Titanic Survival Prediction
+**Titanic Survival Prediction**
 
-This project analyzes the famous Titanic dataset and builds machine learning models to predict passenger survival.
+  This project analyzes the famous Titanic dataset and builds machine learning models to predict passenger survival.
 
-Project Overview
+**Project Overview**
 
-Performed Exploratory Data Analysis (EDA) using Pandas, Seaborn, and Matplotlib.
+  Performed Exploratory Data Analysis (EDA) using Pandas, Seaborn, and Matplotlib.
 
-Cleaned and prepared the dataset for machine learning.
+  Cleaned and prepared the dataset for machine learning.
 
-Implemented classification models:
+**Implemented classification models:**
 
-Logistic Regression
+  Logistic Regression
 
-K-Nearest Neighbors (KNN)
+  K-Nearest Neighbors (KNN)
 
-XGBoost (XGB)
+  XGBoost (XGB)
 
-Technologies Used
+**Technologies Used**
 
-Python
+  Python
 
-NumPy, Pandas
+  NumPy, Pandas
 
-Seaborn, Matplotlib
+  Seaborn, Matplotlib
 
-Scikit-learn
+  Scikit-learn
 
-XGBoost
+  XGBoost
 
-Steps Covered
+**Steps Covered**
 
-Data loading and preprocessing
+  Data loading and preprocessing
 
-Exploratory Data Analysis (EDA)
+  Exploratory Data Analysis (EDA)
 
-Feature engineering
+  Feature engineering
 
-Model training (Logistic Regression, KNN, XGB)
+  Model training (Logistic Regression, KNN, XGB)
 
-Model evaluation with accuracy
+  Model evaluation with accuracy
 
-Results
+**Results**
 
-Logistic Regression: ~80% accuracy
+  Logistic Regression: ~80% accuracy
 
-K-Nearest Neighbors (KNN): ~82% accuracy
+  K-Nearest Neighbors (KNN): ~82% accuracy
 
-XGBoost (XGB): ~85% accuracy
+  XGBoost (XGB): ~85% accuracy
 
-Among all, XGBoost performed the best for predicting passenger survival.
+  Among all, XGBoost performed the best for predicting passenger survival.
